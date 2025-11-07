@@ -1,20 +1,21 @@
 ## Members
-Henry Forsyth, Computer Engineering Student (2024)
-rhforsythjr@vt.edu
+Daniel Cherkasskiy, Electrical Engineering Student (2028)
+cherkasskiyd@vt.edu
 
 ## Mentor
-MENTOR NAME HERE
+Matthew Scala
+Jijun Niu
 
 ## Current Status
-IN PROGRESS
+N/A
 
 ## Project Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula, odio eu dictum aliquet, enim elit tempor diam, quis volutpat mi eros ut nisi. Aliquam luctus orci eget accumsan porta. Proin sollicitudin ultricies lacus et varius. Pellentesque tempor vehicula tempus. Integer semper id lorem vehicula tristique. Suspendisse nec placerat libero, eget aliquet eros. Phasellus iaculis quis lorem in ultrices. Nunc lobortis odio at sem pretium dictum. Integer sed tellus quis lorem pretium posuere.
+I want to build a simple LED circuit that activates when a button is pushed. This will utilize a PCB.
 
 ## Educational Value Added
 
-Vivamus dapibus iaculis dui. Nullam vitae arcu a nisi elementum semper eu eu velit. Suspendisse vel dictum lacus. Sed facilisis luctus consequat. Donec vulputate eu dolor in molestie. Maecenas pretium sem non tellus facilisis sollicitudin id ut nulla. In condimentum orci nisi, sagittis facilisis neque convallis eget. Duis ut sem cursus, placerat mi pellentesque, mollis eros. Integer efficitur blandit elit, sed egestas sem porta in. Mauris euismod nulla ac tellus tempus, eu egestas dui molestie. Proin faucibus enim quis consequat sodales. Pellentesque eleifend blandit augue et laoreet. Phasellus vel posuere nisi, ac aliquam arcu.
+By persuing this project, I will be learning how to create simple PCB's, and learn how to use the necessary softwares behind it (such as KiCad). I will also be able to implement my soldering skills into this project, allowing me additional practice with these tools.
 
 ## Tasks
 
@@ -47,3 +48,4 @@ Vivamus dapibus iaculis dui. Nullam vitae arcu a nisi elementum semper eu eu vel
 ## Log
 
 <!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+
