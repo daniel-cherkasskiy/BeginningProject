@@ -7,15 +7,15 @@ Matthew Scala
 Jijun Niu
 
 ## Current Status
-N/A
+Researching into the required parts.
 
 ## Project Overview
 
-I want to build a simple LED circuit that activates when a button is pushed. This will utilize a PCB.
+I want to build the pip boy device from the video game series _Fallout_. This will act as a small touchscreen computer that is attached to the forearm.
 
 ## Educational Value Added
 
-By persuing this project, I will be learning how to create simple PCB's, and learn how to use the necessary softwares behind it (such as KiCad). I will also be able to implement my soldering skills into this project, allowing me additional practice with these tools.
+By persuing this project, I will be learning how to work with Raspberry Pi's, and learn how to operate and configure the operating system. I will also be able to implement my programming skills into this project, allowing me additional practice with my skills.
 
 ## Tasks
 
@@ -48,4 +48,5 @@ By persuing this project, I will be learning how to create simple PCB's, and lea
 ## Log
 
 <!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+
 
