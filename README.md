@@ -3,8 +3,8 @@ Daniel Cherkasskiy, Electrical Engineering Student (2028)
 cherkasskiyd@vt.edu
 
 ## Mentor
+Phillip Bozzay
 Matthew Scala
-Jijun Niu
 
 ## Current Status
 Researching into the required parts.
@@ -48,5 +48,6 @@ By persuing this project, I will be learning how to work with Raspberry Pi's, an
 ## Log
 
 <!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+
 
 
